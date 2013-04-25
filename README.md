@@ -6,6 +6,7 @@
 * Node.js: 0.8.19
 * Titanium CLI: 3.0.23
 * Alloy: 1.0.0
+* Grunt: 0.4.1 (grunt-cli 0.1.7)
 
 ## Preparation for development
 
@@ -18,10 +19,10 @@ nodebrew install-binary v0.8.19
 nodebrew use v0.8.19
 ```
 
-Then, install [Titanium CLI tool](https://github.com/appcelerator/titanium) and [Alloy](https://github.com/appcelerator/alloy) with npm.
+Then, install [Titanium CLI tool](https://github.com/appcelerator/titanium), [Alloy](https://github.com/appcelerator/alloy) and [Grunt (grunt-cli)](http://gruntjs.com/) with npm.
 
 ```sh
-npm install -g titanium@3.0.23 alloy@1.0.0
+npm install -g titanium@3.0.23 alloy@1.0.0 grunt-cli@0.1.7
 ```
 
 # License
