@@ -6,3 +6,4 @@ tmp
 ._*
 plugins/ti.alloy/plugin.pyc
 Resources
+node_modules

@@ -1,0 +1,10 @@
+{
+  "name": "webview",
+  "version": "0.0.1",
+  "description": "Titanium WebView",
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-contrib-coffee": "0.7.0",
+    "grunt-exec": "0.4.0"
+  }
+}
